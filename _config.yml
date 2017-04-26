@@ -1,0 +1,28 @@
+url: https://x4d3.github.io
+permalink: /blog/:title/
+
+highlighter: rouge
+gist:
+ noscript: false
+kramdown:
+ math_engine: mathjax
+ syntax_highlighter: rouge
+sass:
+  sass_dir: style
+  style: compressed
+
+name: "Xavier Delamotte - Software Engineer"
+description: "Hi, I'm Xavier, a software engineer based in London"
+
+twitter: https://twitter.com/x4d3
+github: https://github.com/x4d3
+stackoverflow: https://stackoverflow.com/users/1107536/xavier-delamotte
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENCE
+  - README.md
+  - bin
+  - gems/
+  - vendor/
