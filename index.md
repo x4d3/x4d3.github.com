@@ -1,6 +1,9 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# Hi 👋, I'm Xavier Delamotte
 
-layout: home
----
+🇫🇷 French Software Engineer living in London 🇬🇧. Play the French Horn 📯, Rugby 🏉, Chess ♛♟ and Video Games🕹, but not at the same time.
+
+- [Mastodon](https://mamot.fr/@xade)
+- [Linkedin](https://linkedin.com/in/xavierdelamotte)
+- [Stackoverflow](https://stackoverflow.com/users/1107536)
+- [Facebook](https://fb.com/xade.eu)
+- [xade.eu](https://xade.eu)
